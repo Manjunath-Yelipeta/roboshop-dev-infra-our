@@ -11,7 +11,7 @@ variable "zone_id" {
 }  
 
 variable "domain_name" {
-    default = "aiops26.online
+    default = "aiops26.online"
 }
 
 variable "mysql_root_password" {

@@ -11,5 +11,5 @@ variable "environment" {
 }  
 
 variable "domain_name" {
-    default = "aiops26.online
+    default = "aiops26.online"
 } */
